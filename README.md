@@ -12,3 +12,4 @@ This app isn't on any other platform and licensed to me and don't upload anywher
 Thanks for understanding.
 
 1.> Isuues fixed of rotating makes refresh.
+2.> Added zoom in and zoom out feature & fixed other bugs.

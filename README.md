@@ -1,8 +1,9 @@
 # BUX_BRACU
 
 [![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](cse110)
-[![Modified](https://img.shields.io/badge/Coverage-full-orange)](cse110)
+[![Compatibility](https://img.shields.io/badge/compatibility%20-Android-brightgreen)](BUX_BRACU)
+[![FIX](https://img.shields.io/badge/issue-none-green)](BUX_BRACU)
+[![version](https://img.shields.io/badge/version-2.0-red)](BUX_BRACU)
 
 
 ```Bux``` is an online learning platform for ```Brac university```. There is no official android app for bux. ```So I developed an android app for Bux as a student of brac university spring 2022.``` Hi, I'm Ratul Hasan from cse departpent of spring2022. 
@@ -16,10 +17,15 @@
 
 Thanks for understanding.
 
-## clone / Download
+## Download
 
 ```bash
-git https://github.com/Onnesok/cse110_Lab
+git clone https://github.com/Onnesok/BUX_BRACU/blob/main/BUX%20update%202.0.apk
+
+or 
+
+select download from 3 dot in upper corner
+THen select download
 
 ```
 
